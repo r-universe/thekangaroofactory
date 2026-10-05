@@ -8,6 +8,9 @@
 [submodule "kitems"]
 	path = kitems
 	url = https://github.com/thekangaroofactory/kitems
+[submodule "kraw"]
+	path = kraw
+	url = https://github.com/thekangaroofactory/kraw
 [submodule "ktools"]
 	path = ktools
 	url = https://github.com/thekangaroofactory/ktools
